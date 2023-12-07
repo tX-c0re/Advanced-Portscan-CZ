@@ -11,7 +11,7 @@
  Upozornění: Mějte na paměti že autor nenese žádnou zodpovědnost za způsobené škody.
  
  Požadavky: tqdm
- Nápověda: pip install tqdm
+                                                  Nápověda: pip install tqdm
 
 ENG
   
@@ -23,4 +23,4 @@ ENG
  Disclaimer: Keep in mind that the author bears no responsibility for what is caused.
  
  Requirements: tqdm
- Hint: pip install tqdm
+                                                  Hint: pip install tqdm
