@@ -5,6 +5,8 @@
  
             Použití: python port.py
             
+![PORT](https://github.com/tX-c0re/Advanced-Portscan-CZ/assets/116806529/6a69af01-6397-4dec-97c4-2793d8129f02)
+
 -Portscanner lokalizovaný v českém jazyce.            
 -Používej pouze s příslušnými právy.                      
 
